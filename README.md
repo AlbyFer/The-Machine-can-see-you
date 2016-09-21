@@ -5,6 +5,6 @@ How: Various methods of image processing and feature extraction. As classifier, 
     convolutional neural networks have been build
     
 Documents contained: 
- - Feed-forward: the .py file for feature extraction and the feed-forward NN
- - Convolutional: the .py file for feature extraction and the convolutional NN
- - Machine Vision: the whole document describing theory and the programs.
+ - feed_forward.py: the .py file for feature extraction and the feed-forward NN
+ - convolutional.py: the .py file for feature extraction and the convolutional NN
+ - Machine Vision.pdf: the whole document describing theory and the programs.
